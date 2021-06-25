@@ -27,12 +27,14 @@ class Main {
 }
 
 
-/*Input : 
+/*
+Input : 
 Enter pieces: 
 8
+
 Enter price:
 1   5   8   9  10  17  17  20
 
-output: 
+Output: 
 Maximum Obtainable Value is 22
 */
